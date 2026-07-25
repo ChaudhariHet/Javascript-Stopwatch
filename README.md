@@ -124,7 +124,7 @@ Every color in the UI transitions smoothly via CSS `transition` properties.
 
 ## 🌐 Live Demo
 
-> [Live Demo Link](https://chaudharihet.github.io/Stopwatch-Webapp/) — (https://chaudharihet.github.io/Stopwatch-Webapp)
+> [Live Demo Link]((https://chaudharihet.github.io/Javascript-Stopwatch/)) —(https://chaudharihet.github.io/Javascript-Stopwatch/)
 
 ---
 
