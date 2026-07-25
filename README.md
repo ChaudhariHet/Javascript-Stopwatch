@@ -1,4 +1,6 @@
-# ⏱ Stopwatch Timer
+# ⏱ Modern Stopwatch Web Application
+
+Accurate • Responsive • Accessible • Keyboard Friendly
 
 A minimal, elegant, and fully responsive Stopwatch Timer web application built with pure HTML5, CSS3, and Vanilla JavaScript — no frameworks, no libraries.
 
