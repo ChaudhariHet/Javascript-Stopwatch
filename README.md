@@ -130,7 +130,7 @@ Every color in the UI transitions smoothly via CSS `transition` properties.
 
 ## 📦 GitHub Repository
 
-> [GitHub Repository Link](https://github.com/ChaudhariHet/Stopwatch-Webapp) — (https://github.com/ChaudhariHet/Stopwatch-Webapp)
+> [GitHub Repository Link] — (https://github.com/ChaudhariHet/Stopwatch-Webapp)
 ---
 
 ## 🔮 Future Improvements
