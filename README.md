@@ -6,7 +6,9 @@ A minimal, elegant, and fully responsive Stopwatch Timer web application built w
 
 ## 📸 Screenshot
 -**Clean Minimalistic Design :**
-- ![Light Mode]<img width="1917" height="910" alt="Screenshot 2026-07-25 114158" src="https://github.com/user-attachments/assets/6482135c-6718-42bc-914a-95dd36a892a7" />
+> **Light Mode**
+
+> <img width="1917" height="910" alt="Screenshot 2026-07-25 114158" src="https://github.com/user-attachments/assets/6482135c-6718-42bc-914a-95dd36a892a7" />
 
 
 ## ✨ Features
